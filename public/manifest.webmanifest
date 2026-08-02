@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "NOCTURNE SIGNAL",
+  "short_name": "NOCTURNE",
+  "description": "Un jeu de rythme survival horror original : jouez jusqu'à l'aube pour maintenir la porte de K-27 fermée.",
+  "lang": "fr-FR",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#050907",
+  "theme_color": "#050907",
+  "orientation": "any",
+  "categories": ["games", "music", "entertainment"],
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/og.png",
+      "sizes": "1672x941",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "NOCTURNE SIGNAL — Survival Rhythm Horror"
+    }
+  ],
+  "prefer_related_applications": false
+}
