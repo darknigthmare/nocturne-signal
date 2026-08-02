@@ -2,6 +2,8 @@
 
 [![CI](https://github.com/darknigthmare/nocturne-signal/actions/workflows/ci.yml/badge.svg)](https://github.com/darknigthmare/nocturne-signal/actions/workflows/ci.yml)
 
+[Jouer à NOCTURNE SIGNAL](https://nocturne-signal.vercel.app)
+
 > Tant que vous jouez, la porte reste fermée.
 
 **NOCTURNE SIGNAL** est un jeu de rythme et de survival horror original, jouable gratuitement dans un navigateur. Seul dans le relais hertzien K-27, le joueur doit maintenir une fréquence parasite sous contrôle en interprétant trois morceaux de plus en plus hostiles. Chaque fausse note rapproche la présence enfermée dans le signal ; chaque enchaînement réussi permet de tenir jusqu'à l'aube.
